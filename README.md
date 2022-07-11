@@ -4,9 +4,9 @@
  - João Pedro Aureliano da Silva 
 
 
-## - Projeto Calculadora 
+## Projeto Calculadora 
 
-## - Esse projeto e ultilizado para desenvolver uma calculadora por meio da:
+## Esse projeto e ultilizado para desenvolver uma calculadora por meio da:
 
 - adição 
 - subtração 
