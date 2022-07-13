@@ -6,7 +6,7 @@
 
 ## Projeto Calculadora 
 
-## Esse projeto e ultilizado para desenvolver uma calculadora por meio da:
+## Esse projeto é ultilizado para desenvolver uma calculadora por meio da:
 
 - adição 
 - subtração 
