@@ -12,9 +12,3 @@
 - subtração 
 - multiplicação
 - divisão
-
-
-
-
-
-
