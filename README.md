@@ -2,7 +2,7 @@
 
  - Rafael dos Santos Barros 
  - João Pedro Aureliano da Silva 
-
+ - Evilly Nayara Lima silva
 
 ## Projeto Calculadora 
 
