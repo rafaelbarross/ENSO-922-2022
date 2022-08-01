@@ -13,7 +13,7 @@
 - multiplicação
 - divisão
 
-wrewfw
+retirar
 
 
 
