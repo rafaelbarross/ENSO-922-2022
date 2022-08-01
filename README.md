@@ -13,7 +13,6 @@
 - multiplicação
 - divisão
 
-retirar
 
 
 
