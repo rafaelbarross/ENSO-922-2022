@@ -1,1 +1,4 @@
+app/Soma$Module.class
+app/Soma.class
 app/App.class
+META-INF/services/io.jooby.MvcFactory
