@@ -2,7 +2,6 @@ package app;
 
 import io.jooby.annotations.*;
 
-
 @Path("/Soma/{op1}/{op2}")
 public class Soma {
 
