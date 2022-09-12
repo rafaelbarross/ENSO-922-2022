@@ -74,6 +74,23 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
+        <configuration>
+          <annotationProcessorPaths>
+            <path>
+              <groupId>io.jooby</groupId>
+              <artifactId>jooby-apt</artifactId>
+              <version>${jooby.version}</version>
+            </path>
+          </annotationProcessorPaths>
+          <compilerArgs>
+            <compilerArg>
+              -Ajooby.debug=false
+            </compilerArg>
+            <compilerArg>
+              -Ajooby.services=true
+            </compilerArg>
+          </compilerArgs>
+        </configuration>
       </plugin>
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
