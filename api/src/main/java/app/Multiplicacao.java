@@ -2,7 +2,7 @@ package app;
 
 import io.jooby.annotations.*;
 
-@Path("/multi/{op1}/{op2}")
+@Path("/c/{op1}/{op2}")
 public class Multiplicacao {
 
     @GET
