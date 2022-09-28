@@ -16,7 +16,7 @@ public class IntegrationTest {
 
   static OkHttpClient client = new OkHttpClient();
 
-  @Test
+ /*  @Test
   public void shouldSayHi(int serverPort) throws IOException {
     Request req = new Request.Builder()
         .url("http://localhost:" + serverPort)
@@ -27,4 +27,5 @@ public class IntegrationTest {
       assertEquals(StatusCode.OK.value(), rsp.code());
     }
   }
+  */
 }
