@@ -3,7 +3,7 @@ package app;
 import io.jooby.annotations.*;
 
 @Path("/divi/{op1}/{op2}")
-public class divisao {
+public class Divisao {
 
     @GET
     public double calculardivi(@PathParam double op1 , @PathParam double op2) {
