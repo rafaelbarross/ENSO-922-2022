@@ -21,6 +21,5 @@ public class SomaTest {
         double resultado = s.calcularSoma(4, 4.5);
         assertEquals(8.5, resultado);
     }
-    
 
 }
